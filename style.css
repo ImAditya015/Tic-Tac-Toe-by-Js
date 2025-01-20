@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#head {
+    height: 100px;
+    width: 100%;
+    font-size: 50px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(220, 20, 20);
+    background-color: rgb(21, 219, 219, 0.7);
+}
