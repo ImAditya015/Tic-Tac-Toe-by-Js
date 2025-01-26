@@ -56,3 +56,11 @@ body {
     color: azure;
 
 }
+#msg {
+    color: blanchedalmond;
+    font-size: 8vmin;
+}
+
+p {
+    display: none;
+}
